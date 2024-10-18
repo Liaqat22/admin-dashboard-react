@@ -29,7 +29,7 @@ function Footer() {
               {/* Facebook Icon with link */}
               <a href="https://github.com/Liaqat22" target="_blank" rel="noopener noreferrer"><i className="fab fa-github" /></a>
               {/* Facebook Icon with link */}
-              <a href="https://wa.me/qr/FTMDCAW2J6XEP1" target="_blank" rel="noopener noreferrer"><i className="fab fa-whatsapp" /></a>
+          
 
 
       </Grid2>
